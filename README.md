@@ -1,2 +1,2 @@
-# Exploring-the-new-things
-Exploring the full stack web development 
+Spotify website 
+Front end using HTML and CSS
